@@ -6,7 +6,7 @@ namespace HackerRankChallenges
     {
         static void Main(string[] args)
         {
-            ModifiedKaprekarNumbers.KaprekarNumbers(1, 999999);
+            ModifiedKaprekarNumbers.KaprekarNumbers(1, 99999);
             Console.ReadLine();
         }
     }

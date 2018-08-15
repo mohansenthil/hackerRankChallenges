@@ -12,7 +12,7 @@ namespace HackerRankChallenges
 
             for (int i = startRange; i <= endRange; i++)
             {
-                ulong squareRootOfWholeNumber = (ulong)(i * i);
+                ulong squareRootOfWholeNumber = (ulong)i * (ulong)i;
 
                 var squareRootOfWholeNumberAsText = squareRootOfWholeNumber.ToString();
 
