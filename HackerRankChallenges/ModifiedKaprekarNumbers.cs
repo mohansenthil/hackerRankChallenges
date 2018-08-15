@@ -16,7 +16,7 @@ namespace HackerRankChallenges
 
                 var squareRootOfWholeNumberAsText = squareRootOfWholeNumber.ToString();
 
-                uint addtionOfTwoNumbers = 0;
+                uint addtionOfTwoNumbers = 1;
 
                 if (squareRootOfWholeNumberAsText.Length > 1)
                 {
